@@ -4,24 +4,30 @@
 
 </div>
 
-<br>
-  
 ## Profile
-  
+<div>
+   <div style="width:50%; float:left;">
+
 ### 👨‍🎓 Experience
  + Paper on deep learning network
  + Intern
  + Web programming (JSP)
-  
+ 
+</div>
+   <div style="width:50%; float:right;">
+
 ### 👋 New Year's Resolution 
  + Cloud
  + Big Data
  + Spring
  + Algorithm
  + Daily Commit ⭐
+ 
+  </div>
+  </div>
   
 ## Stat
-  
+
 <div align=center> 
   
 [![ldayeon's github stats](https://github-readme-stats.vercel.app/api?username=ldayeon)](https://github.com/anuraghazra/github-readme-stats)
