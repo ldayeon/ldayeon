@@ -1,4 +1,3 @@
 ### 👨‍🎓 Experience
  + Paper on deep learning network
- + Intern
- + Web programming (JSP)
+ + Intern - Web programming (JSP)
