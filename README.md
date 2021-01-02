@@ -4,7 +4,6 @@
 
 </div>
 
-## Profile
 <div>
    <div style="width:50%; float:left;">
 
@@ -25,11 +24,3 @@
  
   </div>
   </div>
-  
-## Stat
-
-<div align=center> 
-  
-[![ldayeon's github stats](https://github-readme-stats.vercel.app/api?username=ldayeon)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
