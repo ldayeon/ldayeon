@@ -4,23 +4,7 @@
 
 </div>
 
-<div>
-   <div width="50%">
-
 ### 👨‍🎓 Experience
  + Paper on deep learning network
  + Intern
  + Web programming (JSP)
- 
-</div>
-   <div width="50%">
-
-### 👋 New Year's Resolution 
- + Cloud
- + Big Data
- + Spring
- + Algorithm
- + Daily Commit ⭐
- 
-  </div>
-  </div>
