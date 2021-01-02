@@ -5,7 +5,7 @@
 </div>
 
 <div>
-   <div style="width:50%; float:left;">
+   <div width="50%">
 
 ### 👨‍🎓 Experience
  + Paper on deep learning network
@@ -13,7 +13,7 @@
  + Web programming (JSP)
  
 </div>
-   <div style="width:50%; float:right;">
+   <div width="50%">
 
 ### 👋 New Year's Resolution 
  + Cloud
